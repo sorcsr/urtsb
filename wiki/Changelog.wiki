@@ -1,0 +1,24 @@
+#labels Featured
+#Changelog
+
+= v.0.1 =
+
+initial release
+
+
+= v.0.2 =
+
+  * major speed improvements of server status requests (makes server search up to two times faster than in v.0.1. Refresh of favorites and recent servers are faster, too)
+  * new feature: buddylist. Allows to search servers based on the names of players playing on them. (note: search is case sensitiv!) Manage (add/remove) your Buddies and look where they are playing.
+  * serverlists are no sortable by clicking on the table headers
+  * added option to set a default tab in the settings
+  * fixed bug that prevented a server to be removed from the recent serverslist
+  * progressbar issues fixed
+  * password of servers can now be remembered. There now is also a checkbox in the password dialog that can enable/disable this function.
+  * fixed a bug that causes servers to appear multiple times in the serverlist after multiple searches
+  * a lock-icon is now displayed for passworded servers instead of the string 'yes'
+  * the selected row is now updated too, if the refresh-button in the details area is clicked.
+
+= v.0.3 = 
+
+in development
