@@ -9,7 +9,7 @@ initial release
 = v.0.2 =
 
   * major speed improvements of server status requests (makes server search up to two times faster than in v.0.1. Refresh of favorites and recent servers are faster, too)
-  * new feature: buddylist. Allows to search servers based on the names of players playing on them. (note: search is case sensitiv!) Manage (add/remove) your Buddies and look where they are playing.
+  * new feature: buddylist. Search servers based on the names of players playing on them. (note: search is case sensitiv!) Manage (add/remove) your Buddies and look where they are playing.
   * serverlists are no sortable by clicking on the table headers
   * added option to set a default tab in the settings
   * fixed bug that prevented a server to be removed from the recent serverslist
