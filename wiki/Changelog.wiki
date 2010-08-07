@@ -20,6 +20,13 @@ initial release
   * the selected row in a serverlist is now updated too, if the refresh-button in the details area is clicked.
   * plus some minor bugfixes
 
+
+= v.0.2.1 =
+
+  * spelling of some labels
+  * added 'Add to Favorites' button to the serverdetails area on the 'Buddies' tab
+
+
 = v.0.3 = 
 
 in development
