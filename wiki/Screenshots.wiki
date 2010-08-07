@@ -1,4 +1,5 @@
 #summary Screenshots of UrTSB
+#labels Featured
 
 = Screenshots =
 
