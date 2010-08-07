@@ -18,6 +18,7 @@ initial release
   * fixed a bug that causes servers to appear multiple times in the serverlist after multiple searches
   * a lock-icon is now displayed for passworded servers instead of the string 'yes'
   * the selected row in a serverlist is now updated too, if the refresh-button in the details area is clicked.
+  * plus some minor bugfixes
 
 = v.0.3 = 
 
