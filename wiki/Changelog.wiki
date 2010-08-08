@@ -34,6 +34,6 @@ not yet released - in development
   * added option to disable the update of the selected server row when refresh button is clicked
   * remember filter/query parameters
   * some "under the hood" code improvements
-  * fixed a that prevented the lock-icon to be displayed on the "Recently Played" tab
+  * fixed a bug that prevented the lock-icon to be displayed on the "Recently Played" tab
   * added feature to display location of the server as a small flag icon
   * ... more to come - work in progress...
