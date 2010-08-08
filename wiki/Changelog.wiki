@@ -33,4 +33,5 @@ not yet released - in development
 
   * added option to disable the update of the selected server row when refresh button is clicked
   * remember filter/query parameters
+  * some "under the hood" code improvements
   * ... more to come - work in progress...
