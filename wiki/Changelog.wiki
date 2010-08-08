@@ -36,5 +36,5 @@ not yet released - in development
   * some "under the hood" code improvements
   * fixed a bug that prevented the lock-icon to be displayed on the "Recently Played" tab
   * added feature to display location of the server as a small flag icon
-  * handle players with blank names as 'UnnamedPlayer'
+  * handle players with blank names as UnnamedPlayer
   * ... more to come - work in progress...
