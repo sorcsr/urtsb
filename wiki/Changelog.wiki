@@ -38,4 +38,5 @@ not yet released - in development
   * added feature to display location of the server as a small flag icon
   * handle players with blank names as UnnamedPlayer
   * applied patch to make UrTSB work on windows (contributed by Courgette from the urbanterror.info forums)
+  * server connect on double-click / enter pressed
   * ... more to come - work in progress...
