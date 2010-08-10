@@ -37,4 +37,5 @@ not yet released - in development
   * fixed a bug that prevented the lock-icon to be displayed on the "Recently Played" tab
   * added feature to display location of the server as a small flag icon
   * handle players with blank names as UnnamedPlayer
+  * applied patch to make UrTSB work on windows (contributed by Courgette from the urbanterror.info forums)
   * ... more to come - work in progress...
