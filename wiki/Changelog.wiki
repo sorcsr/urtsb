@@ -39,4 +39,5 @@ not yet released - in development
   * handle players with blank names as UnnamedPlayer
   * applied patch to make UrTSB work on windows (contributed by Courgette from the urbanterror.info forums)
   * server connect on double-click / enter pressed
+  * playerlist and server var list are now sortable
   * ... more to come - work in progress...
