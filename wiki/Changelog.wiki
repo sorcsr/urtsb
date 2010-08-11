@@ -40,4 +40,5 @@ not yet released - in development
   * applied patch to make UrTSB work on windows (contributed by Courgette from the urbanterror.info forums)
   * server connect on double-click / enter pressed
   * playerlist and server var list are now sortable
+  * now launching UrT in a subprocess ( to avoid that UrTSB is blocked while UrT is running)
   * ... more to come - work in progress...
