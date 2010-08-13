@@ -42,5 +42,5 @@ not yet released - in development
   * playerlist and server var list are now sortable
   * now launching UrT in a subprocess ( to avoid that UrTSB is blocked while UrT is running)
   * new feature: RCON window for remote server administration
-  * added contextmenus to the serverlist (open rcon console) and the playerlist (add to buddylist)
+  * added contextmenus to the serverlist and the playerlist 
   * ... more to come - work in progress...
