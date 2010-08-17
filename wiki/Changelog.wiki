@@ -41,3 +41,10 @@ initial release
   * now launching UrT in a subprocess ( to avoid that UrTSB is blocked while UrT is running)
   * new feature: RCON window for remote server administration
   * added contextmenus to the serverlist and the playerlist 
+
+= v.0.4 = 
+
+*not yet released - in development*
+
+  * applied patch to make UrTSB work on windows (contributed by Courgette from the urbanterror.info forums)
+  * make use of python distutils (UrTSB can now be installed by calling "_python setup.py install_")
