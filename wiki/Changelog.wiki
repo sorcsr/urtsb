@@ -58,3 +58,4 @@ initial release
   - Direct server lookup by ip:port or url:port
   * added abort button to abort a query/search/refresh. 
   * display servername on rcon window
+  * two new context menuitems: "copy address to clipboard" and "copy name and address to clipboard"
