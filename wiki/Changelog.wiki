@@ -50,5 +50,10 @@ initial release
   * make use of python distutils (UrTSB can now be installed by calling "_python setup.py install_")
   * adding a server manually to the favorites now handles the host to be specified by url and not only by ip
   * added logo/icon
-  * new filtering panel and filter options including g_gear filter (with calculator) and custom cvar filtering (the old basic filter remains as the default. The new filter panel can be activated in the settings tab). New filter panel also allows the search/lookup of a certain server by entering ip:port or url:port.
-  * added abort button to abort a query/search/refresh
+  * new filtering panel - advanced filter. The old basic filter panel remains the default. The new advanced filter panel can be activated in the settings. Features: 
+  - more filter options: g_gear (incl. g_gear calculator), custom variable filtering, servername and mapnamefilter. 
+
+  - Refresh of the Serverlist without new master server query
+
+  - Direct server lookup by ip:port or url:port
+  * added abort button to abort a query/search/refresh. 
