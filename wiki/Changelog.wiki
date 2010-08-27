@@ -60,3 +60,4 @@ initial release
   * display servername on rcon window
   * two new context menuitems: "copy address to clipboard" and "copy name and address to clipboard"
   * added commandline option -d (or --debug) which activates debug output
+  * adding status icons to buddylist (online/offline)
