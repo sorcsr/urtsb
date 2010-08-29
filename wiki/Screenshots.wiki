@@ -1,20 +1,27 @@
-#summary Screenshots of UrTSB
 #labels Featured
 
 = Screenshots =
 
-== v.0.2: == 
+== Serverlist with basic filter panel (default) ==
 
-Serverlist:
+https://urtsb.googlecode.com/svn/wiki/screenshots/current/server_list_basic.png
 
-https://urtsb.googlecode.com/svn/wiki/screenshots/serverlist_v02.png
+== Serverlist with advanced filter panel ==
 
+https://urtsb.googlecode.com/svn/wiki/screenshots/current/server_list_advanced.png
 
-Buddylist (new in v.0.2):
+== Favorites ==
 
-https://urtsb.googlecode.com/svn/wiki/screenshots/buddylist_v02.png
+https://urtsb.googlecode.com/svn/wiki/screenshots/current/favorites_tab.png
 
-== v.0.1: ==
+== The Buddylist ==
 
-Serverlist
-https://urtsb.googlecode.com/svn/wiki/screenshots/screenshot1.png
+https://urtsb.googlecode.com/svn/wiki/screenshots/current/buddies_tab.png
+
+== Settingstab ==
+
+https://urtsb.googlecode.com/svn/wiki/screenshots/current/settings_tab.png
+
+== UrTSB on Windows XP ==
+
+https://urtsb.googlecode.com/svn/wiki/screenshots/current/urtsb_win.png
