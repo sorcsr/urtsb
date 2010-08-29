@@ -46,7 +46,7 @@ initial release
 
 *not yet released - in development*
 
-  * applied patch to make UrTSB work on windows (contributed by Courgette from the urbanterror.info forums)
+  * applied patch to make UrTSB work on windows (contributed by Courgette from the urbanterror.info forums) + some more changes needed to provide a windows version of UrTSB
   * make use of python distutils (UrTSB can now be installed by calling "_python setup.py install_")
   * adding a server manually to the favorites now handles the host to be specified by url and not only by ip
   * added logo/icon
