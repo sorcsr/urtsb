@@ -1,5 +1,4 @@
 #labels Featured
-
 = Screenshots =
 
 == Serverlist with basic filter panel (default) ==
@@ -13,6 +12,10 @@ https://urtsb.googlecode.com/svn/wiki/screenshots/current/server_list_advanced.p
 == Favorites ==
 
 https://urtsb.googlecode.com/svn/wiki/screenshots/current/favorites_tab.png
+
+== Recently Played ==
+
+https://urtsb.googlecode.com/svn/wiki/screenshots/current/recently_played.png
 
 == The Buddylist ==
 
