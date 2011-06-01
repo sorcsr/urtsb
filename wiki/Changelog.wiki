@@ -66,3 +66,6 @@ initial release
 = v.0.5 =
 
 *not yet released - in development*
+
+  * display private slots (issue #1)
+  * fixed server sorting by playercount (issue #3)
